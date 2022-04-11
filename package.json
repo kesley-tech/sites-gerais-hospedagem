@@ -1,0 +1,25 @@
+{
+  "name": "sites-gerais",
+  "version": "1.0.0",
+  "description": "Desenvolvimento de Sites",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesley-tech/sites-gerais.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kesley-tech/sites-gerais/issues"
+  },
+  "homepage": "https://github.com/kesley-tech/sites-gerais#readme",
+  "dependencies": {
+    "next": "^12.1.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
